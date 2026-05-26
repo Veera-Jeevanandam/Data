@@ -4,6 +4,13 @@ This project provides a personalized health recommendation system based on clini
 
 The implementation is based on the research paper published in IEEE Xplore: [Read the Paper](https://ieeexplore.ieee.org/document/11499497).
 
+## Screenshots
+### Biomarker Data Entry
+![Input Preview](assets/input_preview.png)
+
+### Health Analysis & Recommendations
+![Output Preview](assets/output_preview.png)
+
 ## Features
 - Health risk assessment based on biomarkers (HbA1c, Cholesterol, BMI, Blood Pressure).
 - Personalized health plans generated via Retrieval-Augmented Generation (RAG).
