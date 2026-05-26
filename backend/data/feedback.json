@@ -1,0 +1,26 @@
+[
+    {
+        "rating": 4,
+        "is_helpful": true,
+        "comments": "pure non veg diet",
+        "timestamp": "2026-04-10T06:03:06.763Z"
+    },
+    {
+        "rating": 4,
+        "is_helpful": true,
+        "comments": "pure non veg diet\n",
+        "timestamp": "2026-04-10T06:09:29.625Z"
+    },
+    {
+        "rating": 5,
+        "is_helpful": true,
+        "comments": "pure veg diet",
+        "timestamp": "2026-04-10T06:14:53.736Z"
+    },
+    {
+        "rating": 5,
+        "is_helpful": true,
+        "comments": "i want vegan diet",
+        "timestamp": "2026-04-10T06:17:13.181Z"
+    }
+]
